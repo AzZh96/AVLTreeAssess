@@ -1,0 +1,14 @@
+C:\Users\AzZ\Desktop\Degree Y2\Alg and DS\Week 3\BSTree Assess\BSTree Assess\bin\Debug\BSTree Assess.exe.config
+C:\Users\AzZ\Desktop\Degree Y2\Alg and DS\Week 3\BSTree Assess\BSTree Assess\bin\Debug\BSTree Assess.exe
+C:\Users\AzZ\Desktop\Degree Y2\Alg and DS\Week 3\BSTree Assess\BSTree Assess\bin\Debug\BSTree Assess.pdb
+C:\Users\AzZ\Desktop\Degree Y2\Alg and DS\Week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.csproj.AssemblyReference.cache
+C:\Users\AzZ\Desktop\Degree Y2\Alg and DS\Week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.csproj.CoreCompileInputs.cache
+C:\Users\AzZ\Desktop\Degree Y2\Alg and DS\Week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.exe
+C:\Users\AzZ\Desktop\Degree Y2\Alg and DS\Week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.pdb
+O:\Algo and Data Struc\week 3\BSTree Assess\BSTree Assess\bin\Debug\BSTree Assess.exe.config
+O:\Algo and Data Struc\week 3\BSTree Assess\BSTree Assess\bin\Debug\BSTree Assess.exe
+O:\Algo and Data Struc\week 3\BSTree Assess\BSTree Assess\bin\Debug\BSTree Assess.pdb
+O:\Algo and Data Struc\week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.csprojAssemblyReference.cache
+O:\Algo and Data Struc\week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.csproj.CoreCompileInputs.cache
+O:\Algo and Data Struc\week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.exe
+O:\Algo and Data Struc\week 3\BSTree Assess\BSTree Assess\obj\Debug\BSTree Assess.pdb
